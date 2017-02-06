@@ -1,0 +1,7 @@
+brown
+yellow
+green
+violet
+white
+maroon
+orange

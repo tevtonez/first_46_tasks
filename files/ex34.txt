@@ -1,0 +1,19 @@
+Task 34
+Write a procedure char_freq_table() that, when run in a terminal, accepts a file
+name from the user, builds a frequency listing of the characters contained in
+the file, and prints a sorted and nicely formatted character frequency table to
+the screen.
+\
+Preparing Your Environment
+- [Instructor] Welcome to video 1.3 of this section. In the previous video we've taken a look at the various tools we'll be using throughout the course. In this video, we will take deeper look at the tools, frameworks, and plugins that we spoke about in the last video. Let me start with the Selenium IDE. It's a plugin to Firefox that will allow you to record a journey through a web application and replay it. Selenium IDE also supports saving of the recorded items as a test case, as well as a test suite.
+
+It lets you export recordings to various language-supported scripts, such as Java, C Sharp, Perl, Python, and so on. You will also be able to assert the presence or abundance of elements and texts in your page. Selenium IDE is a great place to start. While it's good to get you off the ground, Selenium has other offerings like Selenium Web Driver that give you greater control over what you want to test and how you want to test it.
+
+These offerings have implementations in various programming languages, which helps overcome the shortcomings of Selenium IDE. To be more flexible you need a programming language and be able to control a browser with the help of it. Automating Selenium through a programming language can be done with WebDriver and Selenium Server. Once you write a piece of code you may execute it locally using Web Driver or remotely using Selenium Server.
+
+Ever since Python 1.4, the slicing syntax has supported an optional third “step” or “stride” argument. For example, these are all legal Python syntax: L[1:10:2], L[:-1:1], L[::-1]. This was added to Python at the request of the developers of Numerical Python, which uses the third argument extensively. However, Python’s built-in list, tuple, and string sequence types have never supported this feature, raising a TypeError if you tried it. Michael Hudson contributed a patch to fix this shortcoming.
+
+For example, you can now easily extract the elements of a list that have even indexes:
+
+>>>
+
